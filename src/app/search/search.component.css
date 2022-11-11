@@ -1,0 +1,13 @@
+.search-container{
+    justify-content: center;
+    /* margin: 10px 0px; */
+    display: flex;
+}
+input[type=text]{
+    /* width: 240px; */
+    /* height: 30px; */
+    background-color:grey;
+    /* padding: 15px; */
+    border: none;
+    /* margin-left: 10px; */
+}
